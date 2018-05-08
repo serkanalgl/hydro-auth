@@ -6,9 +6,31 @@
 
     <groupId>org.crypto</groupId>
     <artifactId>hydro-auth</artifactId>
-    <version>1.0.0-SNAPSHOT</version>
+    <version>1.0.0</version>
+
+    <description>Java library for Hydro Raindrop Api</description>
+
+    <developers>
+        <developer>
+            <name>Serkan Algül</name>
+            <email>serkanalgl@gmail.com</email>
+            <organization>Individual</organization>
+        </developer>
+    </developers>
+
+    <licenses>
+        <license>
+            <name>The MIT License</name>
+            <url>https://opensource.org/licenses/MIT</url>
+        </license>
+    </licenses>
+
+    <scm>
+        <url>scm:git://github.com/serkanalgl/hydro-auth.git</url>
+    </scm>
 
     <properties>
+        <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
         <maven.compiler.target>1.8</maven.compiler.target>
         <maven.compiler.source>1.8</maven.compiler.source>
     </properties>
@@ -41,6 +63,7 @@
     </dependencies>
 
     <build>
+        <finalName>hydro-auth</finalName>
         <plugins>
             <plugin>
                 <groupId>org.apache.maven.plugins</groupId>
