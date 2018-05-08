@@ -67,7 +67,11 @@ jar file is available <a href="https://github.com/serkanalgl/hydro-auth/releases
 If you have any further question/suggestion/issue, do not hesitate to contact me. 
 
 serkanalgl@gmail.com 
-    
+
+## Donate
+
+Ethereum 0x575c1776c7812450ba6f91be117c9c092ae7acb7
+
     
 PS: I'm not team member of Hydrogen Platform. I just want to help people who wants to use hydro raindrop api.
 
