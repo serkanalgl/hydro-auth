@@ -1,4 +1,4 @@
-package com.crypto.api.hydro.auth;
+package org.crypto.hydro.auth;
 
 import org.apache.http.client.HttpClient;
 import org.apache.http.impl.client.HttpClientBuilder;

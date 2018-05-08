@@ -1,4 +1,4 @@
-package com.crypto.api.hydro.auth;
+package org.crypto.hydro.auth;
 
 /**
  * Created by serkanalgul on 2.05.2018.

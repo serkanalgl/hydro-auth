@@ -1,4 +1,4 @@
-package com.crypto.api.hydro.auth;
+package org.crypto.hydro.auth;
 
 
 import org.apache.commons.lang3.StringUtils;

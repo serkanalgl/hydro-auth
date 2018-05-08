@@ -1,4 +1,4 @@
-package com.crypto.api.hydro.auth;
+package org.crypto.hydro.auth;
 
 public class Authenticate extends BaseApiResponse {
 

@@ -1,4 +1,4 @@
-package com.crypto.api.hydro.auth;
+package org.crypto.hydro.auth;
 
 import com.google.gson.Gson;
 import org.apache.http.HttpEntity;
