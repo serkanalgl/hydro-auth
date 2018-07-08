@@ -1,4 +1,4 @@
-#DEPRECATED
+# DEPRECATED due to major changes on hydro raindrop api
 
 # Java library for Hydro Raindrop Api
 <img src="https://www.hydrogenplatform.com/images/logo_hydro.png">
