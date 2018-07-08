@@ -1,3 +1,5 @@
+#DEPRECATED
+
 # Java library for Hydro Raindrop Api
 <img src="https://www.hydrogenplatform.com/images/logo_hydro.png">
 
